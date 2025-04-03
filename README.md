@@ -10,7 +10,7 @@ The dataset is preprocessed into a `.pickle` file, while the raw images are stor
 ---
 ---
 
-## 🚀 Features
+## Features
 
 - **Custom CNN Architecture:** Built with 3 convolutional layers and 2 fully connected layers.
 - **RGB Image Processing:** Utilizes torchvision transforms for resizing, normalizing, and converting images to tensors.
@@ -21,7 +21,7 @@ The dataset is preprocessed into a `.pickle` file, while the raw images are stor
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ```bash
 # Clone the repository
