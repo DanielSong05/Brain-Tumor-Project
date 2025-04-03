@@ -41,6 +41,6 @@ pip install -r requirements.txt
 python main.py
 ```
 This command will:
--Train the CNN on 80% of the dataset.
--Evaluate the model on the remaining 20%.
--Save the trained model to cnn_model.pth.
+- Train the CNN on 80% of the dataset.
+- Evaluate the model on the remaining 20%.
+- Save the trained model to cnn_model.pth.
