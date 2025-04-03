@@ -63,4 +63,3 @@ I plan to extend this project into a fully functional web application that will 
 Achieved 94.5% test accuracy using this architecture and pipeline. Further improvements can be made through hyperparameter tuning or transfer learning approaches.
 
 
-
