@@ -44,3 +44,19 @@ This command will:
 - Train the CNN on 80% of the dataset.
 - Evaluate the model on the remaining 20%.
 - Save the trained model to cnn_model.pth.
+
+## Future Plans
+I plan to extend this project into a fully functional web application that will allow users to:
+- Upload a brain MRI image.
+- Automatically classify the tumor type.
+- Display the prediction and confidence score in real time.
+
+## Dependencies
+- torch
+- torchvision
+- Pillow
+- numpy
+- matplotlib
+- flask (for future use)
+
+
